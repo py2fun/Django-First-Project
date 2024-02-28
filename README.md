@@ -1,4 +1,5 @@
 # Django-First-Project
+
 Django实战
 
 ## git user 配置 
@@ -9,6 +10,8 @@ git config user.email developer@py2fun.com
 ```
 
 ## 本地开发
+
+Python3 版本Python 3.10.8，统一使用Python3.10 即可
 
 初始化环境
 
