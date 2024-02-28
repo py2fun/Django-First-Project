@@ -1,0 +1,14 @@
+[user]
+        email = developer@py2fun.com
+        name  = py2fun 
+[alias]
+        st = status
+        co = checkout
+        ci = commit
+        br = branch
+[color]
+        status = auto
+[credential]
+        helper = store
+[core]
+	autocrlf = input
