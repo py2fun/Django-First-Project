@@ -11,3 +11,7 @@ def challenge(request):
 
 def home(request):
     return HttpResponse("<em>Hello world, you're at home route.</em>")
+
+def dashboard(request):
+    dashboard_dict= {'dashboard_insert': 'Hello, this is the Dashboard page.'}
+    return render(request,'first_app/dashboard.html',context=dashboard_dict)
